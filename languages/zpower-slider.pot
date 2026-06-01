@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZPower Slider 1.5.15\n"
+"POT-Creation-Date: 2026-06-01 12:35:44+0000\n"
+"PO-Revision-Date: 2026-06-01 12:35:44+0000\n"
+"Last-Translator: ZPower <service@zpower.tw>\n"
+"Language-Team: ZPower <service@zpower.tw>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Codex\n"
+
+msgid "輪播圖"
+msgstr ""
+
+msgid "新增輪播圖"
+msgstr ""
+
+msgid "編輯輪播圖"
+msgstr ""
+
+msgid "新輪播圖"
+msgstr ""
+
+msgid "所有輪播圖"
+msgstr ""
+
+msgid "檢視輪播圖"
+msgstr ""
+
+msgid "搜尋輪播圖"
+msgstr ""
+
+msgid "找不到輪播圖"
+msgstr ""
+
+msgid "垃圾桶內無輪播圖"
+msgstr ""
+
+msgid "輪播圖設定"
+msgstr ""
+
+msgid "您沒有權限進行此操作"
+msgstr ""
+
+msgid "設定已儲存。"
+msgstr ""
+
+msgid "輪播圖權限設定"
+msgstr ""
+
+msgid "僅限管理員/編輯可編輯輪播圖"
+msgstr ""
+
+msgid "為了安全性，輪播圖固定只有管理員與編輯可以新增、編輯、刪除。"
+msgstr ""
+
+msgid "儲存設定"
+msgstr ""
+
+msgid "目前僅限管理員與編輯人員可以編輯輪播圖。"
+msgstr ""
+
+msgid "目前僅限管理員與編輯人員可以新增輪播圖。"
+msgstr ""
+
+msgid "輪播圖片與設定"
+msgstr ""
+
+msgid "您沒有編輯此輪播圖的權限。"
+msgstr ""
+
+msgid "輪播模式設定"
+msgstr ""
+
+msgid "啟用自動抓取文章輪播"
+msgstr ""
+
+msgid "啟用後，將自動抓取文章作為輪播內容。停用則使用手動輪播設定。"
+msgstr ""
+
+msgid "自動文章輪播設定"
+msgstr ""
+
+msgid "選擇文章分類"
+msgstr ""
+
+msgid "所有分類"
+msgstr ""
+
+msgid "選擇要輪播的文章分類，預設顯示最新 10 篇文章。"
+msgstr ""
+
+msgid "文章標題樣式設定"
+msgstr ""
+
+msgid "標題文字大小 (桌面)"
+msgstr ""
+
+msgid "標題文字大小 (平板)"
+msgstr ""
+
+msgid "建議寬度 <= 1024px"
+msgstr ""
+
+msgid "標題文字大小 (手機)"
+msgstr ""
+
+msgid "建議寬度 <= 768px"
+msgstr ""
+
+msgid "標題背景高度 (桌面)"
+msgstr ""
+
+msgid "標題背景高度 (平板)"
+msgstr ""
+
+msgid "標題背景高度 (手機)"
+msgstr ""
+
+msgid "標題文字左右內距"
+msgstr ""
+
+msgid "標題文字置中對齊"
+msgstr ""
+
+msgid "標題文字顏色"
+msgstr ""
+
+msgid "不透明度"
+msgstr ""
+
+msgid "標題背景顏色"
+msgstr ""
+
+msgid "標題樣式預設值"
+msgstr ""
+
+msgid "輪播區塊固定高度設定"
+msgstr ""
+
+msgid "啟用固定輪播高度"
+msgstr ""
+
+msgid "啟用後，下方設定的高度將會生效，圖片將填滿寬度並置中顯示，超出高度的部分會被裁切。"
+msgstr ""
+
+msgid "輪播區塊高度 (桌面)"
+msgstr ""
+
+msgid "輪播區塊高度 (平板)"
+msgstr ""
+
+msgid "輪播區塊高度 (手機)"
+msgstr ""
+
+msgid "輪播通用設定"
+msgstr ""
+
+msgid "此處設定適用於手動輪播及自動抓取文章輪播的通用外觀與行為。"
+msgstr ""
+
+msgid "輪播樣式"
+msgstr ""
+
+msgid "選擇前台輪播版型。樣式一為滿版輪播；樣式二會顯示白色背景、中央圓角圖片與左右露出的前後張。"
+msgstr ""
+
+msgid "樣式一"
+msgstr ""
+
+msgid "滿版輪播圖顯示方式。"
+msgstr ""
+
+msgid "樣式二"
+msgstr ""
+
+msgid "中央主圖放大，進入頁面即可看到左中右三張，外層使用白色背景與圓角卡片效果。"
+msgstr ""
+
+msgid "樣式二圖片圓角"
+msgstr ""
+
+msgid "此設定只會套用於樣式二；設為 0px 可取消圖片圓角。"
+msgstr ""
+
+msgid "顏色設定"
+msgstr ""
+
+msgid "這些顏色設定將應用於輪播的導覽箭頭與分頁點。"
+msgstr ""
+
+msgid "箭頭顏色"
+msgstr ""
+
+msgid "點的顏色"
+msgstr ""
+
+msgid "圖示設定（點及箭頭）"
+msgstr ""
+
+msgid "調整輪播導覽箭頭與分頁點的尺寸、邊距等外觀設定。"
+msgstr ""
+
+msgid "箭頭大小"
+msgstr ""
+
+msgid "箭頭左右邊距"
+msgstr ""
+
+msgid "點的大小"
+msgstr ""
+
+msgid "點與點之間的距離"
+msgstr ""
+
+msgid "點與底部的距離"
+msgstr ""
+
+msgid "啟用箭頭導覽"
+msgstr ""
+
+msgid "啟用分頁點導覽"
+msgstr ""
+
+msgid "圖示預設值"
+msgstr ""
+
+msgid "自動輪播設定"
+msgstr ""
+
+msgid "設定輪播是否自動播放以及播放的間隔時間。"
+msgstr ""
+
+msgid "自動輪播間隔（毫秒）"
+msgstr ""
+
+msgid "開啟自動輪播"
+msgstr ""
+
+msgid "自動輪播預設值"
+msgstr ""
+
+msgid "手動輪播 - 圖片選擇與排序"
+msgstr ""
+
+msgid "此區域僅在「停用」自動抓取文章輪播時作用。用於手動新增、排序及設定輪播圖片。"
+msgstr ""
+
+msgid "新增一組圖片"
+msgstr ""
+
+msgid "拖曳排序"
+msgstr ""
+
+msgid "移除此組"
+msgstr ""
+
+msgid "桌機圖片預覽"
+msgstr ""
+
+msgid "選擇桌機圖片"
+msgstr ""
+
+msgid "手機圖片預覽"
+msgstr ""
+
+msgid "選擇手機圖片"
+msgstr ""
+
+msgid "移除手機圖"
+msgstr ""
+
+msgid "連結網址"
+msgstr ""
+
+msgid "原視窗"
+msgstr ""
+
+msgid "新視窗"
+msgstr ""
+
+msgid "*建議圖片寬度在 2000 px 以上"
+msgstr ""
+
+msgid "每組圖片可分別設定桌機與手機圖，連結與開啟方式共用"
+msgstr ""
+
+msgid "WordPress 媒體庫功能未載入，請檢查是否有其他外掛衝突或 JavaScript 錯誤。"
+msgstr ""
+
+msgid "選擇此圖片"
+msgstr ""
+
+msgid "在指定分類下找不到符合條件的文章或文章沒有精選圖片。"
+msgstr ""
+
+msgid "尚未設定圖片，或沒有有效的圖片。"
+msgstr ""
+
+msgid "沒有有效的圖片可供顯示。"
+msgstr ""
+
+msgid "桌機輪播圖片"
+msgstr ""
+
+msgid "手機輪播圖片"
+msgstr ""
+
+msgid "輪播項目連結"
+msgstr ""
+
+msgid "下一張"
+msgstr ""
+
+msgid "上一張"
+msgstr ""
+
+msgid "輪播導覽點"
+msgstr ""
+
+msgid "上一張投影片"
+msgstr ""
+
+msgid "下一張投影片"
+msgstr ""
+
+msgid "跳至投影片 {{index}}"
+msgstr ""
+
+msgid "這是第一張投影片"
+msgstr ""
+
+msgid "這是最後一張投影片"
+msgstr ""
+
+msgid "短代碼"
+msgstr ""
+
+msgid "點擊以複製"
+msgstr ""
+
+msgid "複製"
+msgstr ""
+
+msgid "已複製！"
+msgstr ""
+
+msgid "複製失敗"
+msgstr ""
