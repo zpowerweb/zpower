@@ -37,7 +37,7 @@ The plugin loads the `zpower-slider` text domain from `languages/`.
 
 ## Notes
 
-This standalone plugin keeps the same post type and shortcode names as the toolbox module. Do not enable both the toolbox slider module and this standalone plugin on the same site unless you intentionally want this plugin to own the same `zpower_slider` post type and `[zpower_slider]` shortcode.
+This plugin registers the `zpower_slider` post type and `[zpower_slider]` shortcode. Avoid enabling another plugin or module that registers the same post type or shortcode on the same site.
 
 ---
 
@@ -80,4 +80,4 @@ This standalone plugin keeps the same post type and shortcode names as the toolb
 
 ## 注意事項
 
-這個獨立外掛保留與工具箱輪播模組相同的 post type 和 shortcode。除非你明確要讓此獨立外掛接管同一組 `zpower_slider` post type 與 `[zpower_slider]` shortcode，否則不建議同一網站同時啟用工具箱輪播模組與此獨立外掛。
+這個外掛會註冊 `zpower_slider` post type 與 `[zpower_slider]` shortcode。若同一網站還有其他外掛或模組註冊相同 post type 或 shortcode，建議二擇一啟用，避免功能衝突。
