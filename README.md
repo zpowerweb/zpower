@@ -1,7 +1,5 @@
 # ZPower Slider
 
-Standalone responsive WordPress slider plugin extracted from the ZPower Website Toolbox slider module.
-
 ## Features
 
 - Custom post type: `zpower_slider`
@@ -44,8 +42,6 @@ This standalone plugin keeps the same post type and shortcode names as the toolb
 ---
 
 # ZPower Slider 輪播圖外掛
-
-這是從 ZPower Website Toolbox 輪播圖模組獨立出來的 WordPress 響應式輪播圖外掛。
 
 ## 功能
 
